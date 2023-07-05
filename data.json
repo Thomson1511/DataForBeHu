@@ -1,0 +1,14 @@
+[
+  {
+    "id": "P-01",
+    "type": "Új dokumentáció",
+    "name": "208777 - Bottom Plate",
+    "progress": "60%",
+    "before2": "6. control plan",
+    "before1": "7. PFMEA",
+    "actual": "8. Belső dokumentációk",
+    "next1": "9. Q-DAS",
+    "next2": "10. Routing"
+  },
+  
+]
